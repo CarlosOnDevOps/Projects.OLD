@@ -1,0 +1,16 @@
+/*
+Question 14:
+List the first and last names of the authors that wrote books in more than one genre
+*/
+SELECT Author.AuthorFirstName AS First_Name, Author.AuthorLastName AS Last_Name 
+FROM Book
+INNER JOIN Author
+ON Author.AuthorId = Book.BookAuthor
+GROUP BY Author.AuthorId 
+HAVING (COUNT(DISTINCT Book.Genre) > 1);
+-- I was aware that I would need to look at the Author and Book tables, respecively--Author for the names and Book for the number of genres
+-- I chose the FirstName and LastName fields from the Book table using SELECT
+-- labeled them differently so end-data looks more legible
+-- I was able to link the data tables together using an Inner Join because the connected AuthorId exists in both the Author and Book table
+-- I counted the number of different books with genre counts greater than one using COUNT and DISTINCT
+-- one genre was the focus of all the books of several authors essentially author > many books but none had multiple genres
