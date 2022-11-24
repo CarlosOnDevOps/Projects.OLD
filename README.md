@@ -44,6 +44,17 @@ Hello there! This is a collection of my own projects and challenges for data ana
 
 ---
 
+# :two: Public Library Database :white_check_mark:
+### Summary: 
+You will create a database for a public library as part of this project. The purpose of this database is to compile and examine data regarding the reading preferences of the clients. The project is solely focused on books and the clients' book interests. The management of the library will make future purchasing policy decisions using the analyses that come out of this research.
+
+### Upon completion of this project, I am now able to:
+- Write SQL queries to create tables
+- Write SQL queries to create relationships among tables
+- Identify indexes and create them in a database
+- Write queries to extract important information from a database
+---
+
 # :construction: Oops! Looks like the end of this list is currently under construction - check back regularly for updates to this portfolio. Thanks! :construction:
 
 ---
