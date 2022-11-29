@@ -4,6 +4,11 @@
 ### Summary: 
 You will create a database for a public library as part of this project. The purpose of this database is to compile and examine data regarding the reading preferences of the clients. The project is solely focused on books and the clients' book interests. The management of the library will make future purchasing policy decisions using the analyses that come out of this research.
 
+### Software and Tools Used:
+- PostgreSQL
+- Study.com University Course: *Computer Science 204: Database Programming*
+- VSCode
+
 ### Upon completion of this project, I am now more comfortable:
 - Creating tables and inserting values
 - Recognizing Primary and Foreign key relationships
