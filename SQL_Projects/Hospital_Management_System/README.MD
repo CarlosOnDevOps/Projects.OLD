@@ -1,4 +1,6 @@
-# 🏥 Clinic Management Database:
+# 🏥 Clinic Management Database
+![image](https://user-images.githubusercontent.com/111383078/204542915-d46220ed-793d-4543-8340-63fd6e3535bb.png)
+
 ### Summary:
 A local clinic was having trouble storing and organizing both employee and patient records. They want to lessen these inefficiencies, and you've proposed creating a database that will arrange their data collections for better access and efficiency. You will help with this project by making improvements to routine medical procedures like scheduling appointments, managing doctor schedules, managing patient diagnoses, tracking patients' medical histories, etc.
 Then, the web development team can utilize your database code to create a graphical user interface.
