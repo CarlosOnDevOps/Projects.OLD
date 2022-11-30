@@ -1,4 +1,4 @@
-# 🏥 Clinic Management Database
+# 🏥 Health Clinic Management Database
 ![image](https://user-images.githubusercontent.com/111383078/204542915-d46220ed-793d-4543-8340-63fd6e3535bb.png)
 
 ### Summary:
