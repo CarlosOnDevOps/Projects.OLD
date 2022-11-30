@@ -1,39 +1,38 @@
-# :trophy::fire: Big_Data_Projects :fire::trophy:
-Hello there! This is a collection of my own projects and challenges for data analysis using SQL, Power Bi, Python, and R.
+# :trophy::fire: Complete Portfolio :fire::trophy:
+Good day!
+What you've found here is a collection of tasks and projects I've personally created for myself over time and which have helped me develop my current and most up to date tools and skills. I hope you find it as interesting as I did.
 
 ---
 
-### :hammer_and_wrench: Built using (and always learning) :
-- SQL Languages
+### :hammer_and_wrench: Skills in Progress (and always learning) :
+- Programming :brain:
   - SQL
+  - Python :snake:
+  - R
+  - HTML
+  - CSS
+  - JavaScript
+  - Powershell
+
+- Databases :desktop_computer:
   - MySQL
-  - PostgreSQL
   - SQLite
+  - PostgreSQL
   - Microsoft SQL Server
 
-- Power BI
+- Visualization Tool 📈
+  - Power BI
+  - Excel
 
-- Tools
-  - MySQL Workbench
-  - pgAdmin
-  - DB Browser for SQLite
-
-- Apache Spark
-  - Spark with pySpark
-  - databricks
+- IDE
+  - VSCode
   
-- Python
-  - Jupyter Notebook
-  - Anaconda 
-  - NumPy
-  - Pandas
-  - Seaborn
-  
-- Tensorflow
+And a desire to keep improving!
 
 ---
 
-# :chart_with_upwards_trend: Projects & Challenges :bar_chart:
+# 📑 B L U E  P R I N T S 📔
+Below you will find source code, whitepapers, guides, and tutorials to my projects 👋
 
 ---
 
