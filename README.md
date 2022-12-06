@@ -1,38 +1,42 @@
 # :trophy::fire: Complete Portfolio :fire::trophy:
-Good day!
-What you've found here is a collection of tasks and projects I've personally created for myself over time and which have helped me develop my current and most up to date tools and skills. I hope you find it as interesting as I did.
+What's up!
+What you've found here is a collection of `data analysis` challenges and `projects` I've personally created for myself over time which have helped me develop my current and most up to date tools and skills including `SQL`, `Power BI`, `Python`, `R`, and much more! I hope you find it as interesting and beneficial as I did.
 
 ---
 
-### :hammer_and_wrench: Skills in Progress (and always learning) :
-- Programming :brain:
-  - SQL
-  - Python :snake:
-  - R
-  - HTML
-  - CSS
-  - JavaScript
-  - Powershell
+## :hammer_and_wrench: Skills in Development (and always improving):
+### Programming
+- SQL
+- Python
+- R
+- CSS
+- HTML
+- JavaScript
+- Powershell
 
-- Databases :desktop_computer:
-  - MySQL
-  - SQLite
-  - PostgreSQL
-  - Microsoft SQL Server
+### Databases
+- MySQL
+- PostgreSQL
+- Micorosft SQL Server
+- SQLite
 
-- Visualization Tool 📈
+### Visualization Tools 
   - Power BI
   - Excel
 
-- IDE
+### IDE
   - VSCode
+  - Jupyter Notebooks
+  - PyCharm
+  - 
   
 And a desire to keep improving!
 
 ---
 
-# 📑 B L U E  P R I N T S 📔
-Below you will find source code, whitepapers, guides, and tutorials to my projects 👋
+# 📑 BLUE PRINTS 📔
+Below you will find source code, how-to-guides, and tutorials to my projects 👋 <br />
+*Note: This list is always updating as I continue to learn, practice, and share my achievements. So check back frequently! If any of my works proved beneficial to you, please consider hitting the **star** icon to show support and help others! Good luck!*
 
 ---
 
