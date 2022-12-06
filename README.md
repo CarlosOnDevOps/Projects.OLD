@@ -40,7 +40,7 @@ Below you will find source code, how-to-guides, and tutorials to my projects ðŸ‘
 
 ---
 
-## :one: [Database Professionals Survey]() :white_check_mark:
+## :one: [Database Professionals Survey](https://github.com/CarlosOnDevOps/Big_Data_Projects/tree/main/Power_BI_Projects/01_Database_Professional_Survey) :white_check_mark:
 ### Difficulty: Beginner
 ### Skills developed:
 - `SQL`
@@ -50,7 +50,7 @@ Below you will find source code, how-to-guides, and tutorials to my projects ðŸ‘
 
 ---
 
-## :two: [Public Library Management System]() :white_check_mark:
+## :two: [Public Library Management System](https://github.com/CarlosOnDevOps/Big_Data_Projects/tree/main/SQL_Projects/Library_Management_System) :white_check_mark:
 ### Difficulty: Beginner
 ### Skills developed:
 - `SQL`
@@ -59,7 +59,7 @@ Below you will find source code, how-to-guides, and tutorials to my projects ðŸ‘
 
 ---
 
-## :three: [Health Clinic Management System]() :white_check_mark:
+## :three: [Health Clinic Management System](https://github.com/CarlosOnDevOps/Big_Data_Projects/tree/main/SQL_Projects/Hospital_Management_System) :white_check_mark:
 ### Difficulty: Beginner
 ### Skills developed:
 - `SQL`
@@ -68,7 +68,7 @@ Below you will find source code, how-to-guides, and tutorials to my projects ðŸ‘
 
 ------
 
-## :four: [Grocery Chain Sales Dashboard]() :white_check_mark:
+## :four: [Grocery Chain Sales Dashboard](https://github.com/CarlosOnDevOps/Big_Data_Projects/tree/main/Power_BI_Projects/02_Sales_Dashboard) :white_check_mark:
 ### Difficulty: Beginner
 ### Skills developed:
 - `Power BI`
