@@ -80,7 +80,7 @@ Below you will find source code, how-to-guides, and tutorials to my projects ðŸ‘
 ### Difficulty: Beginner
 ### Skills developed:
 - `Power BI`
-- Data Analysis`
+- `Data Analysis`
 
 ---
 
