@@ -40,31 +40,47 @@ Below you will find source code, how-to-guides, and tutorials to my projects ðŸ‘
 
 ---
 
-# :one: Database Professionals Survey :white_check_mark:
-### Level: Beginner
-### SKILL:
-- SQL
-- VSCode
-- Power BI
-- Data Analysis
+## :one: [Database Professionals Survey]() :white_check_mark:
+### Difficulty: Beginner
+### Skills developed:
+- `SQL`
+- `VSCode`
+- `Power BI`
+- `Data Analysis`
 
 ---
 
-# :two: Library Management System :white_check_mark:
-### Level: Beginner
-### SKILL:
-- SQL
-- VSCode
-- MySQL
+## :two: [Public Library Management System]() :white_check_mark:
+### Difficulty: Beginner
+### Skills developed:
+- `SQL`
+- `VSCode`
+- `MySQL - MySQL Workbench`
 
 ---
 
-# :three: Health Clinic Management System :white_check_mark:
-### Level: Beginner
-### SKILL:
-- SQL
-- VSCode
-- PostgreSQL
+## :three: [Health Clinic Management System]() :white_check_mark:
+### Difficulty: Beginner
+### Skills developed:
+- `SQL`
+- `VSCode`
+- `PostgreSQL - pgAdmin 4`
+
+------
+
+## :four: [Grocery Chain Sales Dashboard]() :white_check_mark:
+### Difficulty: Beginner
+### Skills developed:
+- `Power BI`
+- `Data Analysis`
+
+------
+
+## :five: [Covid-19 Tracker]() :white_check_mark:
+### Difficulty: Beginner
+### Skills developed:
+- `Power BI`
+- Data Analysis`
 
 ---
 
