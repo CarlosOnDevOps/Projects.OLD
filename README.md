@@ -28,7 +28,6 @@ What you've found here is a collection of `data analysis` challenges and `projec
   - VSCode
   - Jupyter Notebooks
   - PyCharm
-  - 
   
 And a desire to keep improving!
 
@@ -40,35 +39,42 @@ Below you will find source code, how-to-guides, and tutorials to my projects ðŸ‘
 
 ---
 
-## :one: [Database Professionals Survey](https://github.com/CarlosOnDevOps/Big_Data_Projects/tree/main/Power_BI_Projects/01_Database_Professional_Survey) :white_check_mark:
-### Difficulty: Beginner
+## :one: [An Analysis of Data Professionals' Survey Responses](https://github.com/CarlosOnDevOps/Big_Data_Projects/tree/main/Power_BI_Projects/01_Database_Professional_Survey) :white_check_mark:
+### Summary:
+> One of my favorite [Data Analytics YouTuber's](https://www.youtube.com/watch?v=pixlHHe_lNQ&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys&index=9&t=1822s) published a survey aimed at professionals in the 'data' industry. This project focuses on telling stories based off the response data accumulated from the survey. 
 ### Skills developed:
 - `SQL`
 - `VSCode`
 - `Power BI`
 - `Data Analysis`
+- `GitHub`
 
 ---
 
-## :two: [Public Library Management System](https://github.com/CarlosOnDevOps/Big_Data_Projects/tree/main/SQL_Projects/Library_Management_System) :white_check_mark:
-### Difficulty: Beginner
+## :two: [Developing a Public Library Database](https://github.com/CarlosOnDevOps/Big_Data_Projects/tree/main/SQL_Projects/Library_Management_System) :white_check_mark:
+### Summary:
+> In this project, you will create a database for a public library. The purpose of this database is to compile and examine data regarding the reading preferences of the clients. The project is solely focused on books and the clients' book interests. The management of the library will make future purchasing policy decisions using the analyses that come out of this research.
 ### Skills developed:
 - `SQL`
 - `VSCode`
-- `MySQL - MySQL Workbench`
+- `MySQL` 
+- `MySQL Workbench`
 
 ---
 
-## :three: [Health Clinic Management System](https://github.com/CarlosOnDevOps/Big_Data_Projects/tree/main/SQL_Projects/Hospital_Management_System) :white_check_mark:
-### Difficulty: Beginner
+## :three: [Developing a Health Clinic Database](https://github.com/CarlosOnDevOps/Big_Data_Projects/tree/main/SQL_Projects/Hospital_Management_System) :white_check_mark:
+### Summary: 
+> A local clinic was having trouble storing and organizing both employee and patient records. They want to lessen these inefficiencies, and you've proposed creating a database that will arrange their data collections for better access and efficiency. You will help with this project by making improvements to routine medical procedures like scheduling appointments, managing doctor schedules, managing patient diagnoses, tracking patients' medical histories, etc.
+Then, the web development team can utilize your database code to create a graphical user interface.
 ### Skills developed:
 - `SQL`
 - `VSCode`
-- `PostgreSQL - pgAdmin 4`
+- `PostgreSQL`
+- `pgAdmin 4`
 
 ------
 
-## :four: [Grocery Chain Sales Dashboard](https://github.com/CarlosOnDevOps/Big_Data_Projects/tree/main/Power_BI_Projects/02_Sales_Dashboard) :white_check_mark:
+## :four: [An Analysis of a Supermarket's Sales](https://github.com/CarlosOnDevOps/Big_Data_Projects/tree/main/Power_BI_Projects/02_Sales_Dashboard) :white_check_mark:
 ### Difficulty: Beginner
 ### Skills developed:
 - `Power BI`
@@ -76,11 +82,16 @@ Below you will find source code, how-to-guides, and tutorials to my projects ðŸ‘
 
 ------
 
-## :five: [Covid-19 Tracker]() :white_check_mark:
-### Difficulty: Beginner
+## :five: [An Analysis of Tracking the Covid-19 Virus]() :white_check_mark:
+### Summary:
+> In this project, we will use 
 ### Skills developed:
 - `Power BI`
 - `Data Analysis`
+- `Web scraping`
+
+---
+## :six: [An Analysis of the Global GDP in US Currency]()
 
 ---
 
