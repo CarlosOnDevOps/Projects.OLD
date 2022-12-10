@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/111383078/204544509-3289a2a7-5904-4f63-bd0b-9996848689cd.png)
 
 ### Summary: 
-You will create a database for a public library as part of this project. The purpose of this database is to compile and examine data regarding the reading preferences of the clients. The project is solely focused on books and the clients' book interests. The management of the library will make future purchasing policy decisions using the analyses that come out of this research.
+> You will create a database for a public library as part of this project. The purpose of this database is to compile and examine data regarding the reading preferences of the clients. The project is solely focused on books and the clients' book interests. The management of the library will make future purchasing policy decisions using the analyses that come out of this research.
 
 ### Software and Tools Used:
 - PostgreSQL
