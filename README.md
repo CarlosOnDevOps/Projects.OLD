@@ -91,7 +91,7 @@ Then, the web development team can utilize your database code to create a graphi
 - `Web scraping`
 
 ---
-## :six: [An Analysis of the Global GDP in US Currency]() :white_check_mark:
+## :six: [An Analysis of the Global GDP in US Currency](https://github.com/CarlosOnDevOps/Big_Data_Projects/tree/main/Power_BI_Projects/Global_GDP) :white_check_mark:
 ### Summary:
 > Every year, the countries of the world produce national goods boosting the international economy overall. This project visualizes GDP data gathered about each country from the [*World Economic Outlook Database*](https://www.imf.org/en/Publications/WEO/weo-database/2022/October). 
 ### Skills developed:
