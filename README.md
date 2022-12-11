@@ -82,9 +82,14 @@ Then, the web development team can utilize your database code to create a graphi
 
 ------
 
-## :five: [An Analysis of Tracking the Covid-19 Virus]() :white_check_mark:
+## :five: [An Analysis of the Spread of the Covid-19 Coronavirus]() :white_check_mark:
 ### Summary:
-> In this project, we will use 
+> In this project, you will utilize up-to-date COVID-19 data gathered from [Worldometer](https://www.worldometers.info/coronavirus/) and prepare charts and visualizations down to the country and continent depicting:
+> - total cases 
+> - total deaths
+> - total active cases 
+> - total critical cases
+> - total recovered cases
 ### Skills developed:
 - `Power BI`
 - `Data Analysis`
