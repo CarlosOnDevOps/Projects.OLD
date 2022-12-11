@@ -1,4 +1,4 @@
-# 🛒: An Analysis of a Supermarket's Sales
+# 🛒 An Analysis of a Supermarket's Sales
 ![sales_dashboard_thumbnail](https://user-images.githubusercontent.com/111383078/206827367-30b5ed2e-4318-456a-9775-bc018989df8e.png)
 
 ---
