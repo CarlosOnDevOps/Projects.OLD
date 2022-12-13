@@ -13,6 +13,7 @@ What you've found here is a collection of `data analysis` challenges and `projec
 - HTML
 - JavaScript
 - Powershell
+- DAX
 
 ### Databases
 - MySQL
@@ -120,6 +121,24 @@ Then, the web development team can utilize your database code to create a graphi
 - `Power BI`
 - `Data Analysis`
 
+---
+
+## :eight: [Developing an end-to-end business intelligence solution for a gloabl manufacturing company]() :white_check_mark:
+### Summary:
+> You've just been hired by **Adventure Works Cycles**, a global manufacturing company, to design and deliver an end-to-end business solution - *from scratch!* <br />
+Your client needs a way to `track KPIs (sales, revenue, profit, returns)`,`compare regional performance`,`analyze product-level trends and forecasts`, and `identify high-value customers`. <br />
+All you've been given is a folder of `raw csv files`, containing information about transactions, returns, products, customers and territories.
+### Skills developed:
+- Connecting & Shaping Data
+  - Connecting to source data, shaping and transforming tables, editing, merging and appending queries, etc.
+- Creating a Data Model
+  - Building relational models, creating table relationships, understanding cardinality, exploring filter flow, etc.
+- Adding Calculated Fields with DAX
+  - Understanding DAX syntax, adding calculated columns and measures, writing common formulas and functions, etc.
+- Visualizing Data with Reports
+  - Inserting charts and visuals, customizing formats, editing interactions, applying filters and bookmarks, etc.
+
+---
 ---
 
 # :construction: Oops! Looks like the end of this list is currently under construction - check back regularly for updates to this portfolio. Thanks! :construction:
