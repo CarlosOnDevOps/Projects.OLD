@@ -39,7 +39,7 @@ Below you will find source code, how-to-guides, and tutorials to my projects ðŸ‘
 *Note: This list is always updating as I continue to learn, practice, and share my achievements. So check back frequently! If any of my works proved beneficial to you, please consider hitting the **star** icon to show support and help others! Good luck!*
 
 ---
-## :one: [Developing a business intelligence solution for a global manufacturing company]() :white_check_mark:
+## :one: [Developing a business intelligence solution for a global manufacturing company](https://github.com/CarlosOnDevOps/Big_Data_Projects/tree/main/Power_BI_Projects/AdventureWorks) :white_check_mark:
 ### Summary:
 > You've just been hired by **Adventure Works Cycles**, a global manufacturing company, to design and deliver an end-to-end business solution - *from scratch!* <br />
 Your client needs a way to `track KPIs (sales, revenue, profit, returns)`,`compare regional performance`,`analyze product-level trends and forecasts`, and `identify high-value customers`. <br />
