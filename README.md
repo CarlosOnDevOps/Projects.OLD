@@ -139,7 +139,7 @@ Then, the web development team can utilize your database code to create a graphi
 
 ---
 
-## :nine: [An Analysis of the Ticket Volume of an Information Security department for a national MSP](https://github.com/CarlosOnDevOps/Big_Data_Projects/tree/main/Power_BI_Projects/Global_GDP) :white_check_mark:
+## :nine: [An Analysis of the Ticket Volume of an Information Security department for a national MSP](https://github.com/CarlosOnDevOps/Big_Data_Projects/tree/main/Power_BI_Projects/InfoSec_Department_Stats) :white_check_mark:
 ### Summary:
 > Identified KPIs that allowed my department to strategize improvements in our data pipelines and workflows
 ### Skills developed:
