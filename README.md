@@ -138,6 +138,14 @@ Then, the web development team can utilize your database code to create a graphi
 - `Data Analysis`
 
 ---
+
+## :nine: [An Analysis of the Ticket Volume of an Information Security department for a national MSP](https://github.com/CarlosOnDevOps/Big_Data_Projects/tree/main/Power_BI_Projects/Global_GDP) :white_check_mark:
+### Summary:
+> Identified KPIs that allowed my department to strategize improvements in our data pipelines and workflows
+### Skills developed:
+- `Power BI`
+- `Data Analysis`
+
 ---
 
 # :construction: Oops! Looks like the end of this list is currently under construction - check back regularly for updates to this portfolio. Thanks! :construction:
